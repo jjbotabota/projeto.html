@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> Exemplo 01 </title>
+</head>
+<body bgcolor="#ff00ff">
+Desenvolvumento de jodos web
+</body>
+</html>
